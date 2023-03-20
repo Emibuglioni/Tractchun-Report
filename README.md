@@ -1,10 +1,8 @@
-Power BI Analysis for Improved IT Services for Manufacturing Company
-
-====================================================================
+# **Power BI Analysis for Improved IT Services for Manufacturing Company**
 
 This project contains a Power BI analysis that was created for a manufacturing company that required improved IT services to support tickets for all aspects of office technology. The analysis provides insights into the company's IT service desk operations, enabling better decision-making and enhancing the overall efficiency of the IT department.
 
-Overview
+## **Overview**
 
 --------
 
@@ -12,13 +10,14 @@ The manufacturing company in question had been struggling with an outdated IT se
 
 This Power BI analysis was designed to provide the company's IT department with insights into the new system's performance, including the number of tickets received, the average resolution time, the most common types of issues, and the number of tickets closed.
 
-Data Sources
+
+### Data Sources
 
 ------------
 
 The data sources used for this analysis included the company's IT helpdesk ticketing system, which contained information on each ticket, including ticket number, creation date, type of issue and resolution time. The data was provided in .xls format and it was reported that the file could not be modified due to users updating the file on a monthly basis.
 
-Features
+### Features
 
 --------
 
@@ -30,7 +29,7 @@ Power BI analytics offers a number of features to help enterprise IT better unde
 
 - Agent Ranking: This dashboard provides information on agent performance.
 
-Conclusion
+## Conclusion
 
 ----------
 
